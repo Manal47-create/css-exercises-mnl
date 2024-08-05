@@ -1,0 +1,26 @@
+/* styles.css */
+
+.pinkbg {
+    background-color: rgb(255,182,193);
+    color: rgb(0,0,0);
+    font: serif;
+    font-size: small;
+  }
+
+.bold {
+    font-size: medium;
+  }
+
+#nb2 {
+    color: rgb(0,0,255);
+    font: serif;
+    font-size: large ;
+}
+
+#nb4 {
+    color: rgb(0,0,0);
+    background-color: rgb(0, 255, 0);
+    font: serif;
+    font-size: large ;
+    font-weight: bold;
+}
